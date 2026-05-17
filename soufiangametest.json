@@ -4,38 +4,50 @@
     {
       "id": "1",
       "name": "Tower Building",
-      "description": "اختبر مهاراتك في الدقة وابنِ أعلى برج ممكن في هذه اللعبة الممتعة.",
-      "iconUrl": "https://img.gamemonetize.com/3596x93682lmj4cn7mrtldmfhviig7jj/512x384.jpg",
+      "description": "Do you like rescue games? Of course, they are great. Help the hero rescue to save the princess and get the treasure in the new hero wars game - Hero Rescue. Shoot the sticks to save the princess, to kill the goblins, to get a treasure, ... You will become a rich hero in this township rescue game.",
+      "iconUrl": "https://img.gamedistribution.com/0073539828624194a73f8863f689e471-512x512.jpeg",
       "screenshotUrls": [
-        "https://img.gamemonetize.com/3596x93682lmj4cn7mrtldmfhviig7jj/512x384.jpg",
-        "https://img.gamemonetize.com/3596x93682lmj4cn7mrtldmfhviig7jj/512x384.jpg"
+        "https://img.gamedistribution.com/0073539828624194a73f8863f689e471-512x384.jpeg",
+        "https://img.gamedistribution.com/0073539828624194a73f8863f689e471-1024x768.jpeg"
       ],
-      "category": "Arcade",
-      "gameUrl": "https://html5.gamemonetize.co/3596x93682lmj4cn7mrtldmfhviig7jj/"
+      "category": "puzzle",
+      "gameUrl": "https://html5.gamedistribution.com/0073539828624194a73f8863f689e471/"
     },
     {
       "id": "2",
-      "name": "Sudoku Classic",
-      "description": "لعبة السودوكو الكلاسيكية لتدريب عقلك وحل الألغاز الصعبة.",
-      "iconUrl": "https://img.gamemonetize.com/3596x93682lmj4cn7mrtldmfhviig7jj/512x384.jpg",
+      "name": "Poppy Strike",
+      "description": "Poppy Strike is a 3D shooting game which features gun game mode with big arsenal of weapons and famous dust 2 map crowded with huggy wuggy, your mission is to shoot all incoming huggy wuggy and try to survive by the end of each round in order to get new weapons.",
+      "iconUrl": "https://img.gamemonetize.com/4wxvll34uscoiq4xxsh4ubrstuzwm5xe/512x384.jpg",
       "screenshotUrls": [
-        "https://img.gamemonetize.com/3596x93682lmj4cn7mrtldmfhviig7jj/512x384.jpg",
-        "https://img.gamemonetize.com/3596x93682lmj4cn7mrtldmfhviig7jj/512x384.jpg"
+        "https://img.gamemonetize.com/4wxvll34uscoiq4xxsh4ubrstuzwm5xe/512x384.jpg",
+        "https://img.gamemonetize.com/4wxvll34uscoiq4xxsh4ubrstuzwm5xe/512x384.jpg"
       ],
-      "category": "Puzzle",
-      "gameUrl": "https://html5.gamemonetize.co/3596x93682lmj4cn7mrtldmfhviig7jj/"
+      "category": "action",
+      "gameUrl": "https://html5.gamemonetize.co/4wxvll34uscoiq4xxsh4ubrstuzwm5xe/"
     },
     {
       "id": "3",
+      "name": "Huggy Wuggy Pixel Nights",
+      "description": "Huggy Wuggy Pixel Nights is a 3D horror game where you are lost in dark pixel town and your mission is to find all bunny toys in order to successfully survive each night and try to avoid scary huggy wuggy encounters.",
+      "iconUrl": "https://img.gamemonetize.com/42qo8toh96152nt6uex5bi8jq4n9jzl2/512x384.jpg",
+      "screenshotUrls": [
+        "https://img.gamemonetize.com/42qo8toh96152nt6uex5bi8jq4n9jzl2/512x384.jpg",
+        "https://img.gamemonetize.com/42qo8toh96152nt6uex5bi8jq4n9jzl2/512x384.jpg"
+      ],
+      "category": "Puzzle",
+      "gameUrl": "https://html5.gamemonetize.co/4wxvll34uscoiq4xxsh4ubrstuzwm5xe/"
+    },
+    {
+      "id": "4",
       "name": "Moto X3M",
       "description": "واحدة من أفضل ألعاب سباقات الدراجات النارية المليئة بالإثارة والقفزات الخطيرة.",
-      "iconUrl": "https://img.gamemonetize.com/3596x93682lmj4cn7mrtldmfhviig7jj/512x384.jpg",
+      "iconUrl": "https://img.gamedistribution.com/253676725458467498670c52187f55b1-512x512.jpeg",
       "screenshotUrls": [
-        "https://img.gamemonetize.com/3596x93682lmj4cn7mrtldmfhviig7jj/512x384.jpg",
-        "https://img.gamemonetize.com/3596x93682lmj4cn7mrtldmfhviig7jj/512x384.jpg"
+        "https://img.gamedistribution.com/253676725458467498670c52187f55b1-512x384.jpeg",
+        "https://img.gamedistribution.com/253676725458467498670c52187f55b1-1024x768.jpeg"
       ],
       "category": "Racing",
-      "gameUrl": "https://html5.gamemonetize.co/3596x93682lmj4cn7mrtldmfhviig7jj/"
+      "gameUrl": "https://html5.gamedistribution.com/253676725458467498670c52187f55b1/"
     }
   ]
 }
