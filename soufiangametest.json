@@ -1,6 +1,18 @@
 {
   "games": [
     {
+      "id": "Rainbow Friends Survival FPS",
+      "name": "Rainbow Friends Survival FPS",
+      "description": "Navigate tense encounters in a first-person perspective, using stealth and marksmanship to survive against colorful but hostile opponents. The game mixes tactical shooting with real-time evasion, challenging players to outmaneuver enemy AI within confined levels. Progressively tougher waves test reflexes and aim as you strive to endure each encounter in a vibrant yet eerie environment.",
+      "iconUrl": "https://img.gamemonetize.com/epxqbbbq6vmci2as75d2rlx5b23c20os/512x512.jpg",
+      "screenshotUrls": [
+        "https://img.gamemonetize.com/epxqbbbq6vmci2as75d2rlx5b23c20os/512x340.jpg",
+        "https://img.gamemonetize.com/epxqbbbq6vmci2as75d2rlx5b23c20os/512x340.jpg"
+      ],
+      "category": "puzzle",
+      "gameUrl": "https://html5.gamemonetize.co/epxqbbbq6vmci2as75d2rlx5b23c20os/"
+    },
+        {
       "id": "Run to Paint",
       "name": "Run to Paint",
       "description": "Paint Run 3D Brand New Satisfying game with Color the path , play like Painter on Path Make all Path become color with paint",
