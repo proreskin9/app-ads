@@ -1,31 +1,6 @@
 {
   "games": [
     {
-      "id": "Ball BlastPals",
-      "name": "Ball BlastPals",
-      "description": "BallBlastPals is a bright and exciting bubble-shooter adventure where fun meets fast thinking! Aim your launcher, shoot colorful balls to the top, and match 3 or more of the same type to pop them and score points. Plan your shots carefully, create satisfying chain reactions, and clear the board to win each level. With smooth controls, cheerful visuals, and rewarding gameplay, BallBlastPals is perfect for quick play sessions and endless fun. Game Features: Easy aim-and-shoot mechanics Match 3+ balls to blast and score Colorful, kid-friendly design Fun levels with increasing challenge Satisfying combos and chain reactions",
-      "iconUrl": "https://img.gamemonetize.com/g0n669k6fop72px1gdevdwe46de6x0n3/512x384.jpg",
-      "screenshotUrls": [
-        "https://img.gamemonetize.com/g0n669k6fop72px1gdevdwe46de6x0n3/512x384.jpg",
-        "https://img.gamemonetize.com/g0n669k6fop72px1gdevdwe46de6x0n3/512x384.jpg"
-      ],
-      "category": "puzzle",
-      "gameUrl": "https://html5.gamemonetize.co/g0n669k6fop72px1gdevdwe46de6x0n3/"
-    },
-    
-    {
-      "id": "Catch The Robber",
-      "name": "Catch The Robber",
-      "description": "Welcome to Catch the thief You're a security guard, working in a place full of thieves. Do your job, chase them, catch them, earn money & upgrade your skills! Play among tons of levels & different environments in this easy to play game. The control is easy to handle, the rule is easy to understand, we are sure you'll have lot of fun playing our game",
-      "iconUrl": "https://img.gamemonetize.com/8iqhnzid5ecd34yajtwv6dvdhdpy1eqa/512x384.jpg",
-      "screenshotUrls": [
-        "https://img.gamemonetize.com/8iqhnzid5ecd34yajtwv6dvdhdpy1eqa/512x384.jpg",
-        "https://img.gamemonetize.com/8iqhnzid5ecd34yajtwv6dvdhdpy1eqa/512x384.jpg"
-      ],
-      "category": "puzzle",
-      "gameUrl": "https://html5.gamemonetize.co/8iqhnzid5ecd34yajtwv6dvdhdpy1eqa/"
-    },
-    {
       "id": "Run to Paint",
       "name": "Run to Paint",
       "description": "Paint Run 3D Brand New Satisfying game with Color the path , play like Painter on Path Make all Path become color with paint",
