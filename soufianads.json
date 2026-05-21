@@ -7,12 +7,12 @@
     "nativeId": "ca-app-pub-3940256099942544/2247696110",
     "rewardedId": "ca-app-pub-3940256099942544/5224354917"
   },
-  "facebook": {
-    "showAds": true,
-    "bannerId": "YOUR_FB_BANNER_ID",
-    "interstitialId": "YOUR_FB_INTER_ID",
-    "nativeId": "YOUR_FB_NATIVE_ID"
-  },
+"facebook": {
+  "showAds": true,
+  "bannerId": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
+  "interstitialId": "VID_HD_16_9_46S_APP_INSTALL#2312433698835503_2650502520025317",
+  "nativeId": "VID_HD_16_9_15S_APP_INSTALL#2312433698835503_2660502525691983"
+},
   "yandex": {
     "showAds": true,
     "bannerId": "R-M-DEMO-320x50",
