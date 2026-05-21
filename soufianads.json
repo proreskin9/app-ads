@@ -1,16 +1,17 @@
 {
   "activeProvider": "ADMOB",
-  "admob": {"showAds": true,
+  "admob": {
+    "showAds": true,
     "bannerId": "ca-app-pub-3940256099942544/6300978111",
     "interstitialId": "ca-app-pub-3940256099942544/1033173712",
     "nativeId": "ca-app-pub-3940256099942544/2247696110",
     "rewardedId": "ca-app-pub-3940256099942544/5224354917"
   },
   "facebook": {
-    "showAds": false,
-    "bannerId": "YOUR_FACEBOOK_BANNER_ID",
-    "interstitialId": "YOUR_FACEBOOK_INTER_ID",
-    "nativeId": "YOUR_FACEBOOK_NATIVE_ID"
+    "showAds": true,
+    "bannerId": "YOUR_FB_BANNER_ID",
+    "interstitialId": "YOUR_FB_INTER_ID",
+    "nativeId": "YOUR_FB_NATIVE_ID"
   },
   "yandex": {
     "showAds": true,
@@ -19,33 +20,38 @@
     "nativeId": "R-M-DEMO-native-i"
   },
   "screenOverrides": {
-    "Home": {
-      "showAds": true,
-      "activeProvider": "ADMOB",
-      "bannerId": "home_banner_ad_unit_id",
-      "interstitialId": "home_interstitial_ad_unit_id",
-      "nativeId": "home_native_ad_unit_id"
-    },
-    "Mod": {
-      "showAds": true,
-      "activeProvider": "ADMOB",
-      "bannerId": "mod_banner_ad_unit_id",
-      "interstitialId": "mod_interstitial_ad_unit_id",
-      "nativeId": "mod_native_ad_unit_id"
-    },
-    "Search": {
-      "showAds": true,
-      "activeProvider": "ADMOB",
-      "bannerId": "search_banner_ad_unit_id",
-      "interstitialId": "search_interstitial_ad_unit_id",
-      "nativeId": "search_native_ad_unit_id"
-    },
-    "Quiz": {
+    "home": {
       "showAds": true,
       "activeProvider": "YANDEX",
-      "bannerId": "quiz_banner_ad_unit_id",
-      "interstitialId": "quiz_interstitial_ad_unit_id",
-      "nativeId": "quiz_native_ad_unit_id"
+      "nativeId": "R-M-DEMO-native-i"
+    },
+    "mods": {
+      "showAds": true,
+      "activeProvider": "ADMOB",
+      "nativeId": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "search": {
+      "showAds": true,
+      "activeProvider": "YANDEX",
+      "bannerId": "R-M-DEMO-320x50",
+      "nativeId": "R-M-DEMO-native-i"
+    },
+    "settings": {
+      "showAds": true,
+      "activeProvider": "YANDEX",
+      "bannerId": "R-M-DEMO-320x50",
+      "nativeId": "R-M-DEMO-native-i"
+    },
+    "quizzes": {
+      "showAds": true,
+      "activeProvider": "ADMOB",
+      "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+      "nativeId": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "category": {
+      "showAds": true,
+      "activeProvider": "ADMOB",
+      "nativeId": "ca-app-pub-3940256099942544/2247696110"
     }
   }
 }
