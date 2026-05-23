@@ -11,10 +11,10 @@
     "reward_id": "ca-app-pub-3940256099942544/5224354917"
   },
   "fan_setting": {
-    "banner_id": "YOUR_PLACEMENT_ID",
-    "inter_id": "YOUR_PLACEMENT_ID",
-    "native_id": "YOUR_PLACEMENT_ID",
-    "reward_id": "YOUR_PLACEMENT_ID"
+    "banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "inter_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "native_id": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "reward_id": "VID_HD_16_9_46S_APP_INSTALL#YOUR_PLACEMENT_ID"
   },
   "applovin_setting": {
     "banner_id": "YOUR_AD_UNIT_ID",
@@ -29,7 +29,7 @@
     "reward_id": "demo-rewarded-yandex"
   },
   "unity_setting": {
-    "app_id": "YOUR_GAME_ID",
+    "app_id": "1234567",
     "banner_id": "Banner_Android",
     "inter_id": "Interstitial_Android",
     "reward_id": "Rewarded_Android"
