@@ -1,77 +1,40 @@
-{
-"admob": {
-    "showAds": true,
-    "bannerId": "ca-app-pub-3940256099942544/6300978111",
-    "interstitialId": "ca-app-pub-3940256099942544/1033173712",
-    "nativeId": "ca-app-pub-3940256099942544/2247696110",
-    "rewardedId": "ca-app-pub-3940256099942544/5224354917"
+{  "primary_ads": "admob",
+  "show_banner": true,
+  "show_interstitial": true,
+  "show_native": true,
+  "show_rewarded": true,
+  "admob_setting": {
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "inter_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "reward_id": "ca-app-pub-3940256099942544/5224354917"
   },
-  "facebook": {
-    "showAds": true,
-    "bannerId": "IMG_16_9_APP_INSTALL#YOUR_FB_BANNER_ID",
-    "interstitialId": "IMG_16_9_APP_INSTALL#YOUR_FB_INTER_ID",
-    "nativeId": "IMG_16_9_APP_INSTALL#YOUR_FB_NATIVE_ID"
+  "fan_setting": {
+    "banner_id": "YOUR_PLACEMENT_ID",
+    "inter_id": "YOUR_PLACEMENT_ID",
+    "native_id": "YOUR_PLACEMENT_ID",
+    "reward_id": "YOUR_PLACEMENT_ID"
   },
-  "applovin": {
-    "showAds": true,
-    "bannerId": "YOUR_APPLOVIN_BANNER_ID",
-    "interstitialId": "YOUR_APPLOVIN_INTER_ID",
-    "nativeId": "YOUR_APPLOVIN_NATIVE_ID"
+  "applovin_setting": {
+    "banner_id": "YOUR_AD_UNIT_ID",
+    "inter_id": "YOUR_AD_UNIT_ID",
+    "native_id": "YOUR_AD_UNIT_ID",
+    "reward_id": "YOUR_AD_UNIT_ID"
   },
-  "yandex": {
-    "showAds": true,
-    "bannerId": "R-M-DEMO-320x50",
-    "interstitialId": "R-M-DEMO-interstitial",
-    "nativeId": "R-M-DEMO-native-i"
+  "yandex_setting": {
+    "banner_id": "demo-banner-yandex",
+    "inter_id": "demo-interstitial-yandex",
+    "native_id": "demo-native-app-yandex",
+    "reward_id": "demo-rewarded-yandex"
   },
-  "unity": {
-    "showAds": true,
-    "gameId": "1234567",
-    "bannerId": "Banner_Android",
-    "interstitialId": "Interstitial_Android"
+  "unity_setting": {
+    "app_id": "YOUR_GAME_ID",
+    "banner_id": "Banner_Android",
+    "inter_id": "Interstitial_Android",
+    "reward_id": "Rewarded_Android"
   },
-  "ironsource": {
-    "showAds": true,
-    "appKey": "85460dcd",
-    "interstitialId": "DefaultInterstitial",
-    "bannerId": "DefaultBanner"
-  },
-  "screenOverrides": {
-    "home": {
-      "showAds": true,
-      "bannerId": "ca-app-pub-3940256099942544/6300978111",
-      "nativeId": "ca-app-pub-3940256099942544/2247696110"
-    },
-    "mods": {
-      "showAds": true,
-      "bannerId": "ca-app-pub-3940256099942544/6300978111",
-      "nativeId": "ca-app-pub-3940256099942544/2247696110"
-    },
-    "search": {
-      "showAds": true,
-      "activeProvider": "YANDEX",
-      "bannerId": "R-M-DEMO-320x50",
-      "nativeId": "R-M-DEMO-native-i"
-    },
-    "settings": {
-      "showAds": true,
-      "bannerId": "ca-app-pub-3940256099942544/6300978111",
-      "nativeId": "ca-app-pub-3940256099942544/2247696110"
-    },
-    "quizzes": {
-      "showAds": true,
-      "interstitialId": "ca-app-pub-3940256099942544/1033173712",
-      "nativeId": "ca-app-pub-3940256099942544/2247696110"
-    },
-    "details": {
-      "showAds": true,
-      "interstitialId": "ca-app-pub-3940256099942544/1033173712",
-      "nativeId": "ca-app-pub-3940256099942544/2247696110"
-    },
-    "category": {
-      "showAds": true,
-      "bannerId": "ca-app-pub-3940256099942544/6300978111",
-      "nativeId": "ca-app-pub-3940256099942544/2247696110"
-    }
+  "ironsource_setting": {
+    "app_id": "YOUR_APP_KEY"
   }
 }
